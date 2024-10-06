@@ -153,4 +153,4 @@ awards:
 
 I belong to a team that creates virtual reality-related content, and have been an assistant since I was 21.
 I mainly work with 3D models and can create comfortable Cinemachine girls and props.
-P.S. Video editing and proofreading are possible.
+Video editing and proofreading are possible.
