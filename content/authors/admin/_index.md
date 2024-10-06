@@ -151,6 +151,6 @@ awards:
 
 ## About Me
 
-I belong to a team that creates virtual reality-related content, and have been an assistant since I was 21.
-I mainly work with 3D models and can create comfortable Cinemachine girls and props.
-Video editing and proofreading are possible.
+저는 가상현실 관련 콘텐츠를 만드는 팀에 소속되어, 21살부터 어시스턴트를 했습니다.
+주로 3D 모델링을 작업하며, 간단한 시네머신과 3D 디자인이 가능합니다.
+영상 편집 및 보정 또한 가능합니다.
