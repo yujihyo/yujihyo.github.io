@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 유지효
 
 # Name pronunciation (optional)
 name_pronunciation: ji hyo
