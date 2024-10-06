@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/yujihyo
   - icon: brands/discord
-    url: https://www.discord.com/
+    url: https://www.discord.com/yujihyo_
 
 interests:
   - 3D modeling
@@ -151,4 +151,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+저는 가상현실 관련 콘텐츠를 만드는 팀에 소속되어, 21살부터 어시스턴트를 했습니다.
+주로 3D 모델링을 작업하며, 간단한 시네머신 작업과 소품 제작이 가능합니다.
+p.s. 영상 편집 및 보정이 가능합니다.
