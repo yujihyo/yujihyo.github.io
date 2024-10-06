@@ -2,9 +2,6 @@
 # Display name
 title: 유지효
 
-# Name pronunciation (optional)
-name_pronunciation: yu ji hyo
-
 # Full name (for SEO)
 first_name: jihyo
 last_name: yu
@@ -31,20 +28,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'toriluz12@naver.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/keephyo_
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/yujihyo
+  - icon: brands/discord
+    url: https://www.discord.com/
 
 interests:
   - Artificial Intelligence
