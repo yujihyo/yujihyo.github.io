@@ -3,11 +3,11 @@
 title: 유지효
 
 # Name pronunciation (optional)
-name_pronunciation: ji hyo
+name_pronunciation: yu ji hyo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: jihyo
+last_name: yu
 
 # Status emoji
 status:
