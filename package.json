@@ -24,5 +24,12 @@
     "typescript": "^5.5.3",
     "vite": "^5.4.1",
     "vue-tsc": "^2.0.29"
+  },
+  "scripts": {
+  "start:dev": "VUE_APP_ENV=development vue-cli-service serve",
+  "build:dev": "VUE_APP_ENV=development vue-cli-service build",
+  "build:prod": "VUE_APP_ENV=production vue-cli-service build",
+  "deploy": "gh-pages -d dist"
   }
+
 }
